@@ -1,6 +1,8 @@
 # Adonis API application
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Implementation of an api to register projects and tasks developed with the adonis framework.
+
+Some resources used:
 
 1. Bodyparser
 2. Authentication
