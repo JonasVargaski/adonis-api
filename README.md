@@ -9,17 +9,16 @@ Some resources used:
 3. CORS
 4. Lucid ORM
 5. Migrations and seeds
+6. Background Jobs (Redis)
+7. Exceptions
 
 ## Setup
 
-Use the adonis command to install the blueprint
+Use the adonis command to install
 
 ```bash
-adonis new yardstick --api-only
+npm install
 ```
-
-or manually clone the repo and then run `npm install`.
-
 
 ### Migrations
 
